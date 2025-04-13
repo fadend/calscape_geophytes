@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calscape_geophytes"
+description = "Generate a listing of geophytes in Calscape."
+authors = [
+  {name = "David Faden", email = "dfaden@gmail.com"},
+]
+version = "0.1.0"
+license = {text = "MIT License"}
+dependencies = ["openpyxl"]
