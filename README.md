@@ -28,7 +28,7 @@ bin/python -m calscape_geophytes.calscape_geophytes \
 
 ## Acknowledgments
 
-Thank you CNPS for Calscape! Thank to iNaturalist for the taxa data (and everything else)!
+Thank you, CNPS, for Calscape! Thanks to iNaturalist for the taxa data (and everything else)!
 
 Thank you to Philip Rundel for the fascinating article.
 
